@@ -1,0 +1,11 @@
+pass 0 :  no = 34869 rev=0 rem
+pass 1 :  no = 3486 rev= 9 rem = 9
+pass 2 :  no = 348 rev=96 rem =6
+pass 3 :  no = 34 rev=968 rem = 8
+pass 4 :  no = 3 rev=9684 rem = 4
+pass 5 :  no = 0 rev=96843 rem = 3
+
+10)34869(3486
+   348 
+ ----------
+    4869 
